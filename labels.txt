@@ -4,3 +4,5 @@ Happy
 Sad
 Surprise
 Neutral
+elated
+exuberance
